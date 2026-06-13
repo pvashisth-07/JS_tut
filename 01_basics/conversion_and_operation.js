@@ -13,3 +13,12 @@ let score=33
 // console.log(boolval);
 //only 0,null,empty is bool false rest all true
 
+//*******************Opeations**************/
+let val=3
+let negval=-val
+
+console.log("1"+2);
+console.log(1+"2");
+console.log("1"+2+2);
+console.log(2+2+"1");
+//left precedence, opreation take place from left on getting same presedence
